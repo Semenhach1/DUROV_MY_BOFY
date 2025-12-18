@@ -15,7 +15,7 @@ from telethon.tl.types import Channel
 from telethon.tl.functions.channels import EditBannedRequest
 from telethon.tl.types import ChatBannedRights
 
-API_TOKEN = '8172301299:AAHLnsa35_Njs4UqF44OdZR1bWXUAbqc99o'
+API_TOKEN = '8172301299:AAEetq_GnGffcme8F-P0-0wJe18nT2LKPoI'
 ADMIN_ID = 8065283718
 CHANNEL_ID = -1003146486725
 logs = -1003417010845   # писать с -100, наверху тоже
